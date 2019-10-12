@@ -4,3 +4,9 @@ body {
     font-weight: 300;
     font-size: 1.2rem;
 }
+
+h1 {
+    color: #106090;
+    font-weight: 600;
+    font-family: 'Roboto Mono', monospace;
+}
